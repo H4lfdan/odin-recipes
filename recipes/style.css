@@ -1,0 +1,49 @@
+h1,
+h2 {
+    color: rgb(75, 60, 50);
+    border-bottom: 2px solid black;
+}
+
+h1 {
+    font-family: "Georgia", serif;
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(160, 200, 160);
+}
+
+h2 {
+    font-family: "Courier New", monospace;
+    font-size: 30px;
+    background-color: rgb(225, 225, 225);
+    width: 250px;
+    padding: 6px;
+    text-align:center;
+}
+
+p {
+    text-indent: 36px;
+    font-size: 18px;
+    padding: 12px;
+}
+
+ul {
+    font-family: "Arial", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: italic;
+    color: rgb(15, 90, 175);
+}
+
+ol {
+    font-family: 'Georgia', serif;
+    font-size: 18px;
+    background-color: rgb(160, 200, 160);
+    padding: 6px auto;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 20px solid rgb(160, 200, 160);
+}
